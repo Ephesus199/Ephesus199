@@ -17,18 +17,6 @@
   <img src="https://img.shields.io/badge/1%2B_Years_Experience-0a0a0a?style=for-the-badge&logo=githubactions&logoColor=00ff87&color=0a0a0a" />
 
 </div>
-
----
-
-## 🧑‍💻 **About Me**
-
-```diff
-+ 🚀 Highly motivated & results-oriented Full-Stack Developer
-+ 💡 Building robust & scalable web applications with modern tech
-+ 🎯 Currently focused on launching my own SaaS product
-+ 🎤 Love attending tech conferences & networking
-+ 😄 Fun fact: Sleep, eat, joke with friends, then code!
-
 ⚡ Tech Arsenal
 <div align="center">
 🎨 Frontend
@@ -52,5 +40,3 @@ https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoC
 https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white&color=0a0a0a&labelColor=0a0a0a
 
 </div>
-📊 GitHub Analytics
-<div align="center"> <!-- ANIMATED STATS CARDS --> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ephesus199&show_icons=true&count_private=true&hide_border=true&title_color=00ffaa&icon_color=60efff&text_color=c9d1d9&bg_color=0a0a0a&ring_color=00ffaa&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ephesus199&hide_border=true&background=0a0a0a&ring=00ffaa&fire=60efff&currStreakLabel=00ffaa&sideLabels=c9d1d9&dates=c9d1d9&stroke=00ffaa&currStreakNum=ffffff" /> <!-- TOP LANGUAGES WITH NEON THEME --> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephesus199&layout=compact&hide_border=true&title_color=00ffaa&text_color=c9d1d9&bg_color=0a0a0a&langs_count=8" /> <!-- ACTIVITY GRAPH --> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ephesus199&bg_color=0a0a0a&color=00ffaa&line=60efff&point=00ff87&area=true&hide_border=true&custom_title=🔥%20Contribution%20Graph" /> <!-- TROPHIES --> <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Ephesus199&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" /></div>
