@@ -98,11 +98,11 @@
 
   <br/><br/>
 
-  <img 
-    width="98%" 
-    src="https://github-profile-trophy.vercel.app/?username=Ephesus199&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" 
-    alt="GitHub Trophies" 
-  />
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=Ephesus199&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" 
+  width="100%" 
+  alt="GitHub Profile Trophies" 
+/>
 
 </div>
 
@@ -142,8 +142,8 @@
 
 <img 
   width="100%" 
-  src="https://raw.githubusercontent.com/Ephesus199/Ephesus199/output/github-contribution-grid-snake-dark.svg" 
-  alt="GitHub Contribution Snake Animation" 
+  alt="GitHub Contribution Snake Animation"
+  src="https://raw.githubusercontent.com/Ephesus199/Ephesus199/output/github-contribution-grid-snake-dark.svg?v=1"
 />
 
 </div>
