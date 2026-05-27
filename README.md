@@ -32,32 +32,50 @@
 
 ## ⚡ Tech Arsenal
 
-<div align="center">
+<table align="center">
+<tr>
+<td valign="top" width="33%">
 
-### 🎨 Frontend
+## 🎨 Frontend
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=0a0a0a&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=0a0a0a&labelColor=0a0a0a" /><br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&color=0a0a0a&labelColor=0a0a0a" /><br/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=0a0a0a&labelColor=0a0a0a" /><br/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white&color=0a0a0a&labelColor=0a0a0a" /><br/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white&color=0a0a0a&labelColor=0a0a0a" /><br/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white&color=0a0a0a&labelColor=0a0a0a" /><br/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
+</p>
 
-### 🖧 Backend
+</td>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Next.js_API-000000?style=for-the-badge&logo=next.js&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
+<td valign="top" width="33%">
 
-### 🗄️ Databases & ORMs
+## 🖧 Backend
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=0a0a0a&labelColor=0a0a0a" /><br/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&color=0a0a0a&labelColor=0a0a0a" /><br/>
+  <img src="https://img.shields.io/badge/Next.js_API-000000?style=for-the-badge&logo=next.js&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
+</p>
 
-</div>
+</td>
+
+<td valign="top" width="33%">
+
+## 🗄️ Databases & ORMs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=0a0a0a&labelColor=0a0a0a" /><br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=0a0a0a&labelColor=0a0a0a" /><br/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&color=0a0a0a&labelColor=0a0a0a" /><br/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
