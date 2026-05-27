@@ -130,7 +130,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffaa,100:60efff&height=120&section=footer"/>
 
 </div>
 
