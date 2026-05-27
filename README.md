@@ -2,7 +2,10 @@
   
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff87,100:60efff&height=250&section=header&text=Efeson%20Uliso%20Uba&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=65"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=🚀+Building+My+SaaS+Product;💻+Full-Stack+Developer;🔥+1%2B+Year+of+Experience;✨+Tech+Conference+Lover;⚡+Always+Learning+New+Things" alt="Typing Animation" />
+ <img 
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+SaaS+Product;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%94%A5+1%25%2B+Year+of+Experience;%E2%9C%A8+Tech+Conference+Lover;%E2%9A%A1+Always+Learning+New+Things" 
+  alt="Typing Animation" 
+/>
   
   <img src="https://komarev.com/ghpvc/?username=Ephesus199&style=for-the-badge&color=00ffaa&label=🔥+VISITORS&logo=github&logoColor=white&labelColor=0a0a0a" />
   
@@ -18,13 +21,12 @@
 
 ## 🧑‍💻 About Me
 
-```diff
+
 + 🚀 Highly motivated & results-oriented Full-Stack Developer
 + 💡 Building robust & scalable web applications with modern tech
-+ 🎯 Currently focused on launching my own SaaS product
 + 🎤 Love attending tech conferences & networking
 + 😄 Fun fact: Sleep, eat, joke with friends, then code!
-```
+
 
 ---
 
@@ -62,39 +64,24 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ephesus199&show_icons=true&count_private=true&hide_border=true&title_color=00ffaa&icon_color=60efff&text_color=c9d1d9&bg_color=0a0a0a&ring_color=00ffaa&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ephesus199&hide_border=true&background=0a0a0a&ring=00ffaa&fire=60efff&currStreakLabel=00ffaa&sideLabels=c9d1d9&dates=c9d1d9&stroke=00ffaa&currStreakNum=ffffff" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephesus199&layout=compact&hide_border=true&title_color=00ffaa&text_color=c9d1d9&bg_color=0a0a0a&langs_count=8" />
+
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ephesus199&bg_color=0a0a0a&color=00ffaa&line=60efff&point=00ff87&area=true&hide_border=true&custom_title=🔥%20Contribution%20Graph" />
   <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Ephesus199&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </div>
 
----
 
-## 🎯 Current Focus
-
-```diff
-+ 🚀 Building my SaaS product from scratch
-+ 📚 Deepening Next.js 14+ App Router knowledge
-+ ☁️ Learning Cloud Deployment (Vercel, AWS)
-+ 🎨 Perfecting UI/UX with Shadcn/ui + Tailwind
-```
-
----
 
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://linkedin.com/in/Ephesus199">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
+  <a href="https://twitter.com/Ephesus199">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-00ffaa?style=for-the-badge&logo=vercel&logoColor=black&color=0a0a0a&labelColor=0a0a0a" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+ 
+  <a href="mailto:ephesusuliso2025@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0a0a0a&labelColor=0a0a0a" />
   </a>
 </div>
